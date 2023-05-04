@@ -5,7 +5,7 @@ Windows 10 64bitでは動くと思います．\
 mingw64でビルトしました．c++系のdllファイルの在りかをpathに入れておかないと動かないかもしれません．\
 以下の２つです．\
 libgcc_s_seh-1.dll\
-libstdc++-6.dll\
+libstdc++-6.dll
 
 
 【参考にした情報】
