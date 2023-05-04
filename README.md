@@ -5,7 +5,8 @@ Windows 10 64bitでは動くと思います．\
 mingw64でビルトしました．c++系のdllファイルの在りかをpathに入れておかないと動かないかもしれません．\
 以下の２つです．\
 libgcc_s_seh-1.dll\
-libstdc++-6.dll
+libstdc++-6.dll\
+出力の桁数の調整中です．
 
 
 【参考にした情報】
